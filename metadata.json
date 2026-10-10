@@ -1,0 +1,6 @@
+{
+  "name": "การเงินมั่นคง - Personal Finance Dashboard",
+  "description": "บอร์ดบริหารและติดตามการเงินส่วนบุคคล ดีไซน์ Glacier Glassmorphism สไตล์โมเดิร์น พร้อมการวิเคราะห์กระแสเงินสดและบันทึกธุรกรรม",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
